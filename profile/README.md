@@ -16,4 +16,4 @@ Es handelt sich um ein Fan-Projekt und ist stark vom Kultspiel "Fugger 2" inspir
 - :computer: [Mitmachen](https://github.com/Conspiratio/Conspiratio.Lib#mitmachen)
 - :book: [Entwickler-Wiki (im Aufbau)](https://github.com/Conspiratio/Conspiratio.WinForms/wiki)
 
-![Conspiratio Intro](https://github.com/Conspiratio/.github/tree/main/profile/ConspiratioIntro.jpg)
+![ConspiratioIntro](https://user-images.githubusercontent.com/26973123/204272643-76dc8ba8-5500-437b-bb94-2815522845fe.jpg)
