@@ -7,7 +7,7 @@ Es handelt sich um ein Fan-Projekt und ist stark vom Kultspiel "Fugger 2" inspir
 ### Für Spieler
 
 - :video_game: [Spiel herunterladen](https://github.com/Conspiratio/Conspiratio.WinForms/releases)
-- :book: [Wiki / Handbuch](https://github.com/Conspiratio/Conspiratio.Wiki/wiki)
+- :book: [Wiki / Handbuch](https://github.com/Conspiratio/Conspiratio.Wiki/wiki/1.-Hauptmen%C3%BC)
 - :small_blue_diamond: [Website](https://conspiratio.net)
 - :small_blue_diamond: [Discord](https://discord.gg/dxkC5DPgRY)
 
