@@ -4,8 +4,6 @@ Conspiratio ist ein frei erwerbbarer Wirtschaftssimulator der Neuzeit, in welche
 
 Es handelt sich um ein Fan-Projekt und ist stark vom Kultspiel "Fugger 2" inspiriert.
 
-![Conspiratio Intro](https://github.com/Conspiratio/Conspiratio.WinForms/blob/main/Conspiratio/Images/Hintergruende/HintIntro.tif)
-
 ### Für Spieler
 
 - :video_game: [Spiel herunterladen](https://github.com/Conspiratio/Conspiratio.WinForms/releases)
@@ -17,3 +15,5 @@ Es handelt sich um ein Fan-Projekt und ist stark vom Kultspiel "Fugger 2" inspir
 
 - :computer: [Mitmachen](https://github.com/Conspiratio/Conspiratio.Lib#mitmachen)
 - :book: [Entwickler-Wiki (im Aufbau)](https://github.com/Conspiratio/Conspiratio.WinForms/wiki)
+
+![Conspiratio Intro](https://github.com/Conspiratio/.github/tree/main/profile/ConspiratioIntro.jpg)
